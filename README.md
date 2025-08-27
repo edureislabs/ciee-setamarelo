@@ -26,7 +26,7 @@
 
 <h2>👥 Participantes</h2>
 <ul>
-    <li>Eduardo Reis - <a href="https://github.com/eduardoreise">GitHub</a></li>
+    <li>Eduardo Reis - <a href="https://github.com/eduardoreislabs">GitHub</a></li>
 </ul>
 
 <h2>📞 Contato</h2>
