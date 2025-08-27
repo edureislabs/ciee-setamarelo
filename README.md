@@ -31,8 +31,8 @@
 
 <h2>📞 Contato</h2>
 <ul>
-    <li>🌐 GitHub: <a href="https://github.com/eduardoreise">eduardoreise</a></li>
-    <li>🔗 LinkedIn: <a href="https://linkedin.com/in/eduardoreise">Eduardo Reis</a></li>
+    <li>🌐 GitHub: <a href="https://github.com/eduardoreislabs">eduardoreise</a></li>
+    <li>🔗 LinkedIn: <a href="https://www.linkedin.com/in/eduardodosreis18/">Eduardo Reis</a></li>
     <li>📸 Instagram: <a href="https://instagram.com/dev.eduh">@dev.eduh</a></li>
 </ul>
 
